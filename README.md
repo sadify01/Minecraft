@@ -12,7 +12,7 @@ pip install perlin_noise
 # **Mobs**
 | Name     | HP |
 | -------- | -- |
-| chicken  | 4  |
-| creeper  | 20 |
-| enderman | 40 |
-| ghast    | 10 |
+| Chicken  | 4  |
+| Creeper  | 20 |
+| Enderman | 40 |
+| Ghast    | 10 |
